@@ -1,4 +1,4 @@
-/* @import '~bootstrap/dist/css/bootstrap.min.css';
+@import '~bootstrap/dist/css/bootstrap.min.css';
 
 
 .section {
@@ -150,4 +150,4 @@
     padding: 10px 3px 0 3px;
     color: white;
     font-size: 50px;
-  } */
+  }
